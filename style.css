@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.pee {
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: orange;
+  width: 100%;
+  height: 100%;
+}
+
+.pee2 {
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: mintcream;
+  width: 100%;
+  height: 100%;
+}
+
+body  { 
+  background-color: lightpink ;
+}
+
+.wario { 
+  width: 100%;
+  height: 100%;
+  border-radius: 75px 75px 50px 50px;
+}
